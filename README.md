@@ -1,4 +1,4 @@
-# Bengaluru Ride Hailing Analysis Using PySpark
+# Ride Hailing Analysis Using PySpark
 
 ## Project Overview
 
